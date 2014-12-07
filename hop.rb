@@ -24,3 +24,7 @@ class Alternate
 		Alternate.new(@second, @first)
 	end
 end
+
+class Hoho
+end
+
